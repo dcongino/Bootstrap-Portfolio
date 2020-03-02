@@ -1,0 +1,64 @@
+body {
+    background-image: url(embossed.png);
+}
+
+.navbar-brand {
+    background-color: #4aaaab;
+    color: #ffffff;
+    padding: 10px;
+    margin-left: 112px;
+}
+
+img#bio-pic {
+    height: 300px;
+    margin-left: 175px;
+    margin-top: 15px;
+    
+}
+
+.col {
+    margin-left: -15px;
+    margin-top: 10px;
+}
+
+.fixed-bottom {
+    text-align: center;
+    background-color: lightgray;
+    height: 20px;
+}
+
+.form-group {
+    width: 60%;
+}
+
+.container1 {
+    margin-left: 335px;
+    margin-top: 75px;
+}
+
+.container4 {
+    margin-left: 75px;
+    margin-right: 75px;
+    margin-top: 20px;
+}
+
+img#hangmanpic {
+    height: 150px;
+    width: 50%;
+}
+
+img#triviapic {
+    height: 150px;
+    width: 50%; 
+}
+
+img#rpspic {
+    height: 150px;
+    width: 50%; 
+}
+
+.container3 {
+    margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
